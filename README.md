@@ -4,7 +4,11 @@ The sky is yours.
 
 A lightweight, browser-based 3D flight simulator built with TypeScript, Three.js, and Vite.
 
-## Play
+## Play online
+
+**https://pranishuprety.github.io/comeflywithme/**
+
+## Play locally
 
 ```bash
 npm install
@@ -12,6 +16,14 @@ npm run dev
 ```
 
 Open the local URL Vite prints, then click **Play**.
+
+## Deploy
+
+```bash
+npm run deploy
+```
+
+Publishes the `dist` build to the `gh-pages` branch (GitHub Pages).
 
 ## Controls
 
